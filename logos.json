@@ -33,6 +33,16 @@
 		]
 	},
 	{
+		"title": "Sendchamp",
+		"filename": "sendchamp",
+		"url": "https://sendchamp.com/",
+		"category": [
+			"Software",
+			"ICT",
+			"Communication"
+		]
+	},
+	{
 		"title": "AltSchool Africa",
 		"filename": "altschool_africa",
 		"url": "https://altschoolafrica.com/",
@@ -1093,5 +1103,17 @@
         "filename": "tecmie",
         "url": "https://tecmie.com/",
         "category": ["Software", "ICT"]
+	},
+	{
+		"title": "Nestcoin",
+		"filename": "nestcoin",
+		"url": "https://nestcoin.com/",
+		"category": ["Financial Services"] 
+	},
+	{
+		"title": "Brass",
+		"filename": "brass",
+		"url": "https://trybrass.com/",
+		"category": ["Financial Services"]
 	}
 ]
